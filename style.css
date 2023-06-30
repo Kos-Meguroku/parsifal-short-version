@@ -1,0 +1,21 @@
+/* body */
+body {
+	color:#1a1a1a;
+	margin:0px;
+	padding:0px;
+	background:#ffffff url(bg6.gif) repeat-y;
+	background-position:center;
+}
+
+/* テーブル・段落 */
+td { font-size:13px; line-height:140%; }
+p  { margin:3px 5px; }
+
+/* リンク */
+a       { color:#0000FF; text-decoration:underline; }
+a:hover { color:#aa0000; text-decoration:none; background-color:#ffcc99; }
+
+/* コンテンツ */
+h1 { color:#00a300;  font-size:16pt; margin:0px 0px;}
+h2 { color:white;  font-size:11pt; margin:0px 0px;}
+h3 { color:black; font-size:11pt; margin:0px 0px;}
